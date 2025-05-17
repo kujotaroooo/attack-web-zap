@@ -1,13 +1,5 @@
 # ZAP Proxy (OWASP ZAP) Installation and Usage Guide  follow my github :)
 
-OWASP Zed Attack Proxy (ZAP) is a free and open-source web application security scanner. This guide will walk you through the installation process and basic usage of ZAP Proxy.
-
-## Table of Contents
-- [Installation](#installation)
-- [Getting Started](#getting-started)
-- [Basic Usage](#basic-usage)
-- [Saving and Managing Results](#saving-and-managing-results)
-
 ## Installation
 
 1. Visit the official OWASP ZAP download page: [https://www.zaproxy.org/download/](https://www.zaproxy.org/download/)
@@ -53,9 +45,7 @@ After completing your security testing:
 - [OWASP ZAP User Guide](https://www.zaproxy.org/docs/desktop/ui/)
 - [ZAP API Documentation](https://www.zaproxy.org/docs/api/)
 
-## Contributing
 
-Feel free to contribute to this guide by submitting pull requests or creating issues for improvements.
 
 ## License
 
